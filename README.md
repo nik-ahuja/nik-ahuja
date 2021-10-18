@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nikhil Ahuja, a Senior Analyst at the Department of Transport and Main Roads, Queensland Gov. I crunch and visualize numbers to achieve a single integrated transport network for Queenslanders.
+I am Nikhil Ahuja, a Senior Analyst at the Department of Transport and Main Roads, Queensland Gov. I crunch and visualize numbers to find insights that enable us to achieve a single integrated transport network for Queenslanders.
 
 I'll update this space real soon with more info and works...
 
