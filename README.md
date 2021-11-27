@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
 ---
 
 <details>
