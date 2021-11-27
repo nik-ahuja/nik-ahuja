@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 #### I promise to write more regularly.
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I called a therapist…](https://medium.com/@ahuja_nik/why-i-called-a-therapist-d4f591dab1?source=rss-7c7f2c0ffc74------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
