@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="nikhliahuja.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="wintermonster | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="wintermonster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="wintermonster | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nikhliahuja.xyz" width="22px" src="icons/globe-solid.svg" />][website]
+[<img align="left" alt="wintermonster | Twitter" width="22px" src="icons/twitter-square-brands.svg" />][twitter]
+[<img align="left" alt="wintermonster | LinkedIn" width="22px" src="icons/linkedin-brands.svg" />][linkedin]
+[<img align="left" alt="wintermonster | Instagram" width="22px" src="icons/instagram-brands.svg" />][instagram]
 
 <br />
 
