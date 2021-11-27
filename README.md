@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<!--
 ### 📕 Latest Blog Posts
+#### I promise to write more regularly.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
