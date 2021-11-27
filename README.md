@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 I am currently trying to evaluate the G.O.A.T in UFC with ELO style rating system
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning scrapy and lightroom.
 - 👯 I’m looking to collaborate with other programmers.
 - 🥅 Life Goals: Learn. Grow. Repeat.
 - ⚡ Fun fact: I love photography and will soon start releasing prints.
