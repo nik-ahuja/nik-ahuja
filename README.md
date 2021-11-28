@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 [website]: https://nikhilahuja.xyz
 [twitter]: https://twitter.com/ahuja_nik
 [instagram]: https://instagram.com/ahuja_nik
-[linkedin]: https://linkedin.com/in/nikahuja
+[linkedin]: https://linkedin.com/in/wintermonster
 
 <!--
 
