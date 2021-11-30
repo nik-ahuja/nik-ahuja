@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/ahuja_nik
 [linkedin]: https://linkedin.com/in/wintermonster
 
+<!--START_SECTION:Chess-->
+<!--END_SECTION:Chess-->
+
 <!--
 
 <a href="https://www.buymeacoffee.com/wintermonster" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <a href='https://ko-fi.com/G2G36K2T3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
