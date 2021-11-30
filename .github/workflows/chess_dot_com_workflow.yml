@@ -1,0 +1,13 @@
+name: chess.com stats
+on:
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-chess-stats:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Prathamesh-B/chess-stats-readme@master
+        with:
+          CHESS_USERNAME: wintermonster
