@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 #### I'm a Software Developer turned Data Geek, currently working as a Senior Analyst at the Department of Transport and Main Roads, Queensland Gov where I crunch and visualize numbers to find insights that enable us to achieve a single integrated transport network for Queenslanders.
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Fnikhilahuja.xyz)
+![Twitter Follow](https://img.shields.io/twitter/follow/ahuja_nik?style=social)
 ---
 
 - 🔭 I am currently trying to evaluate the G.O.A.T in UFC with ELO style rating system
