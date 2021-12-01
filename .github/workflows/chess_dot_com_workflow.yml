@@ -1,6 +1,8 @@
 name: chess.com stats
 on:
   workflow_dispatch:
+  schedue:
+    -cron: '0 6/2 * * *'
 
 jobs:
   update-readme-with-chess-stats:
