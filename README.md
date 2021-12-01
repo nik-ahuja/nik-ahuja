@@ -64,6 +64,15 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/wintermonster
 
 <!--START_SECTION:Chess-->
+**♟️ My Chess.com Stats** 
+
+> ⏲️ Rapid: 836
+ > 
+> ⚡ Blitz: 643
+ > 
+> 💣 Bullet: 265
+ > 
+
 <!--END_SECTION:Chess-->
 
 <!--
