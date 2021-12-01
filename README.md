@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 - 🥅 Life Goals: Learn. Grow. Repeat.
 - ⚡ Fun fact: I love photography and will soon start releasing prints.
 
-### Connect with me:
-
-[<img align="left" alt="nikhliahuja.xyz" width="22px" src="icons/globe-solid.svg" />][website]
-
 <br />
 
 ### Languages and Tools:
