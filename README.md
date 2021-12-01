@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 > ⏲️ Rapid: 836
  > 
-> ⚡ Blitz: 643
+> ⚡ Blitz: 641
  > 
-> 💣 Bullet: 265
+> 💣 Bullet: 315
  > 
 
 <!--END_SECTION:Chess-->
