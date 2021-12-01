@@ -1,7 +1,7 @@
 name: chess.com stats
 on:
   workflow_dispatch:
-  schedue:
+  schedule:
     -cron: '0 6/2 * * *'
 
 jobs:
