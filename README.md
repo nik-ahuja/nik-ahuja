@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 **♟️ My Chess.com Stats** 
 
 > ⏲️ Rapid: 829
- > 
+>
 > ⚡ Blitz: 626
- > 
+>
 > 💣 Bullet: 315
- > 
+>
 
 <!--END_SECTION:Chess-->
 
