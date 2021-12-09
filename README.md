@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 > ⏲️ Rapid: 829
 >
-> ⚡ Blitz: 614
+> ⚡ Blitz: 599
 >
 > 💣 Bullet: 315
 >
