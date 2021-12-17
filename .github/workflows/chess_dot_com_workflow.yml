@@ -2,7 +2,7 @@ name: chess.com stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2/10 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-chess-stats:
