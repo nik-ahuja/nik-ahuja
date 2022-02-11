@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:Chess-->
 **♟️ My Chess.com Stats** 
 
-> ⏲️ Rapid: 823
+> ⏲️ Rapid: 835
 >
-> ⚡ Blitz: 605
+> ⚡ Blitz: 612
 >
 > 💣 Bullet: 315
 >
