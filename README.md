@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - [Why I called a therapist…](https://medium.com/@ahuja_nik/why-i-called-a-therapist-d4f591dab1?source=rss-7c7f2c0ffc74------2)
 <!-- BLOG-POST-LIST:END -->
 ---
-<img align="left" alt="wintermonster's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wintermonster&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="left" alt="wintermonster's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wintermonster&theme=dark&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged" />
 
 [website]: https://nikhilahuja.xyz
 [twitter]: https://twitter.com/ahuja_nik
