@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 ## Hi there, I'm Nikhil aka wintermonster 👋
 
 #### I'm a Software Developer turned Data Geek, currently working as a Senior Data Scientist at the Department of Transport and Main Roads, Queensland Gov where I crunch and visualize numbers to find insights that enable us to achieve a single integrated transport network for Queenslanders.
+---
 
+<!--
 ![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Fnikhilahuja.xyz)
 [<img align="left" alt="wintermonster | Twitter" width="22px" src="icons/twitter-square-brands.svg" />][twitter]
 [<img align="left" alt="wintermonster | LinkedIn" width="22px" src="icons/linkedin-brands.svg" />][linkedin]
 [<img align="left" alt="wintermonster | Instagram" width="22px" src="icons/instagram-brands.svg" />][instagram]
 ---
-
 - 🔭 I am currently trying to evaluate the G.O.A.T in UFC with ELO style rating system
 - 🌱 I’m currently learning scrapy and lightroom.
 - 👯 I’m looking to collaborate with other programmers.
 - 🥅 Life Goals: Learn. Grow. Repeat.
 - ⚡ Fun fact: I love photography and will soon start releasing prints.
+
 
 <br />
 
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
+-->
 ---
 ### 📕 Latest Blog Posts
 #### I promise to write more regularly.
@@ -62,18 +64,6 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/ahuja_nik
 [instagram]: https://instagram.com/ahuja_nik
 [linkedin]: https://linkedin.com/in/wintermonster
-
-<!--START_SECTION:Chess-->
-**♟️ My Chess.com Stats** 
-
-> ⏲️ Rapid: 835
->
-> ⚡ Blitz: 612
->
-> 💣 Bullet: 315
->
-
-<!--END_SECTION:Chess-->
 
 <!--
 
